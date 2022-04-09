@@ -1,0 +1,27 @@
+,categoryCode,category
+0,BAKING,Baking
+1,BEVERAGES,Beverages
+4,CANDY_AND_SWEETS,Candy & Sweets
+7,CONDIMENTS & SAUCES,Condiments & Sauces
+8,CANNED GOODS & SOUPS,Canned Goods & Soups
+13,MAGAZINES,Magazines
+14,BREAKFAST & CEREAL,Breakfast & Cereal
+15,BEER WINE SPIRITS,Beer Wine Spirits
+16,HEALTHY_AND_WELLNESS,Health & Wellness
+19,BEAUTY,Beauty
+20,BABY,Baby
+26,FROZEN,Frozen
+30,GROCERY,Grocery
+36,SNACKS,Snacks
+40,HOUSEHOLD,Household
+52,PERSONAL CARE,Personal Care
+64,HEALTH & WELLNESS,Health & Wellness
+92,DAIRY,Dairy
+139,PERSONAL_CARE,Personal Care
+145,CLEANING_AND_HOME_IMPROVEMENT,Cleaning & Home Improvement
+163,DELI,Deli
+249,BEER_WINE_SPIRITS,Beer Wine Spirits
+286,BEAUTY & PERSONAL CARE,Beauty & Personal Care
+325,BREAD_AND_BAKERY,Bread & Bakery
+342,OUTDOOR,Outdoor
+435,DAIRY_AND_REFRIGERATED,Dairy & Refrigerated
