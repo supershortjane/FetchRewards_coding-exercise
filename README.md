@@ -11,7 +11,7 @@
 To check my answers to all the predetermined question, please run the python files Coding_Exercise_SecondPart_writequeries. Please make sure your working directory include the database fetchrewards.db. 
 
 ## Third: Evaluate Data Quality Issues in the Data Provided
-To check my answers to all the predetermined question, please run the python files Coding_Exercise_ThirdPart_dataissues. Please make sure your working directory include the database fetchrewards.db. 
+To check my answers to all the predetermined questions, please run the python files Coding_Exercise_ThirdPart_dataissues. Please make sure your working directory include the database fetchrewards.db. 
 
 ## Fourth: Communicate with Stakeholders
 Please see the word document named email. 
